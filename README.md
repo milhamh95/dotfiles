@@ -79,11 +79,14 @@ dotfiles config
 - Use export and import settings
 
 # 9. Better Touch Tool
+- Use export and import settings
 
 # 10. CleanShot X
+- General
+![Clean-Shot-2024-11-24-at-18-42-42-2x](https://i.ibb.co.com/71CKVMw/Clean-Shot-2024-11-24-at-18-42-42-2x.png)
+- Shortcut
+![Clean-Shot-2024-11-24-at-18-43-49-2x](https://i.ibb.co.com/yfQxd70/Clean-Shot-2024-11-24-at-18-43-49-2x.png)
 
-# 11. iStat Menus
-
-# 12. OpenIn
-
-# 13. Presentify
+# 12. Presentify
+- Shortcut
+![Clean-Shot-2024-11-24-at-18-48-47-2x](https://i.ibb.co.com/KVzKyjJ/Clean-Shot-2024-11-24-at-18-48-47-2x.png)
